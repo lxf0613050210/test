@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Seekx2y\\WeiniSDK\\": "src/"
+            "Xiaofei\\testSDK\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Seekx2y\\Tests\\": "tests/"
+            "Xiaofei\\testSDK\\": "tests/"
         }
     }
 }
