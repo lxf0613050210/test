@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Xiaofei\\test-sdk\\": "test.php"
+            "Xiaofei\\testSDK\\": "test.php"
         }
     },
     "autoload-dev": {
