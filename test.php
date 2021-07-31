@@ -1,6 +1,6 @@
 <?php
 
-namespace Xiaofei\test-sdk;
+namespace Xiaofei\testSDK;
 
 
 class  test {
