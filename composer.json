@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Xiaofei\\testSDK\\": "src/"
+            "Xiaofei\\test-sdk\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Xiaofei\\testSDK\\": "tests/"
+            "Xiaofei\\test-sdk\\": "tests/"
         }
     }
 }
