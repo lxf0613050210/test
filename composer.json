@@ -1,7 +1,7 @@
 {
     "name": "xiaofei/test-sdk",
     "description": "test SDK",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "lanxiaofei",
@@ -18,11 +18,6 @@
     "autoload": {
         "psr-4": {
             "Xiaofei\\testSDK\\": "test.php"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Xiaofei\\test-sdk\\": "tests/"
         }
     }
 }
