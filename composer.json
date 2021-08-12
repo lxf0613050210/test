@@ -8,6 +8,7 @@
             "email": "lxf0613050210@163.com"
         }
     ],
+    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1"
